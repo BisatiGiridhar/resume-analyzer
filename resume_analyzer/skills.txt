@@ -1,0 +1,12 @@
+python
+java
+sql
+machine learning
+data analysis
+nlp
+html
+css
+javascript
+react
+flask
+django
